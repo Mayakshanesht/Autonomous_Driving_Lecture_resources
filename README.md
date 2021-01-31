@@ -1,7 +1,10 @@
 # Autonomous_Driving_Lecture_resources
 Here are Resources That I have followed to get understannding about 
+
 A) Autonomous vehicles
+
 Introductory:
+
 1.Self-Driving Fundamentals: Featuring Apollo -
 https://www.udacity.com/course/self-driving-car-fundamentals-featuring-apollo--ud0419
 
@@ -66,7 +69,7 @@ https://matlabacademy.mathworks.com/R2020b/portal.html?course=reinforcementlearn
 https://www.youtube.com/watch?v=X2s7gy3wIYw&feature=youtu.be
 
 C) Perception: 
-Lectures for Perception of Autonomous vehicle held at TUM:
+Lectures on Perception for Autonomous vehicle held at TUM:
 1. Introduction to deep learning-
 https://www.youtube.com/playlist?list=PLQ8Y4kIIbzy_OaXv86lfbQwPHSomk2o2e
 
@@ -105,50 +108,88 @@ E) Control:
 1.MPC Lab @ UC-Berkeley-
 http://www.mpc.berkeley.edu/mpc-course-material
 Imp Topics:
-1. "Longitudinal Model development
+1. 
+Longitudinal Model development
+
 Lateral Model development
+
 Analysis of Model for control
+
 Longitudinal Control - PID, MPC
+
 Adaptive Cruise Control
+
 Lateral Control - PID, MPC
+
 Lane Keeping Control, Lane Change Control
+
 Unified Long/Lat Model development (higher-order model)
+
 MPC Constraints and control
-Reinforcement Learning Control and Examples"
 
+Reinforcement Learning Control and Examples
 
-2."Analyze principles of operation of a variety of mixed domain actuation systems,
+2.
+Analyze principles of operation of a variety of mixed domain actuation systems,
 including electromechanical and fluid power systems.
+
 Develop mathematical models of a variety of mixed domain actuation systems, and develop familiarity with actuator selection procedures.
+
 Formulate and manipulate control system block diagrams from component and
-subsystem models; develop familiarity with control system performance specifications and relation to plant characteristics.
+subsystem models;
+
+develop familiarity with control system performance specifications and relation to plant characteristics.
+
 Use graphical and analytical approaches for control system analysis.
+
 Feedback Control System - PID"
 
-3."-Formulation of optimal control problems
+3.
+-Formulation of optimal control problems
+
 Parameter optimization versus path optimization
+
 Local and global optima; general conditions on existence and uniquenes.
+
 Some basic facts from finite-dimensional optimization.
+
 The Calculus of Variations
+
 The Minimum (Maximum) Principle and the Hamilton-Jacobi Theory
+
 Pontryagin's minimum principle
+
 Optimal control with state and control constraints
+
 Time-optimal control
+
 Singular solutions
+
 Hamilton-Jacobi-Bellman (HJB) equation, and dynamical programming
+
 Viscosity solutions to HJB
+
 Linear Quadratic Gaussian (LQG) Problems
+
 Finite-time and infinite-time state (or output) regulators
+
 Riccati equation and its properties
+
 Tracking and disturbance rejection
+
 Kalman filter and duality
+
 The LQG design
+
 Nonholonomic System Optimal Control"
 
 F)Robotics &  Robot Operating System-
+
 1.Mobole Robotics & sensing:
 a.https://www.youtube.com/playlist?list=PLgnQpQtFTOGSeTU35ojkOdsscnenP2Cqx
+
 b.Mobile Sensing and Robotics 1 & 2(Summer 2019 & 2020, Uni Bonn)-
+
 https://www.youtube.com/playlist?list=PLgnQpQtFTOGQJXx-x0t23RmRbjp_yMb4v
 
 https://www.youtube.com/playlist?list=PLgnQpQtFTOGQh_J16IMwDlji18SWQ2PZ6
@@ -162,8 +203,10 @@ https://www.youtube.com/playlist?list=PLE-BQwvVGf8HOvwXPgtDfWoxd4Cc6ghiP
 
 G) Advanced C++ for computer vision,linux Cmake(build), git(Version control), gtest, gitlab(Project Management):
 University of Bonn:
+
 1.
 https://www.youtube.com/playlist?list=PLgnQpQtFTOGRM59sr3nSL8BmeMZR9GCIA
+
 2.
 https://www.youtube.com/playlist?list=PLgnQpQtFTOGR50iIOtO36nK6aNPtVq98C
 
