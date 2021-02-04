@@ -91,6 +91,7 @@ Photogrammetry 2-https://www.youtube.com/playlist?list=PLgnQpQtFTOGQEXN2Qo571uvw
 SLAM- https://www.youtube.com/playlist?list=PLgnQpQtFTOGQrZ4O5QzbIHgl3b1JHimN_
 
 2.Sensor Fusion Toolbox by MathWork- 
+https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python
 
 https://www.mathworks.com/help/pdf_doc/fusion/fusion_ref.pdf
 
@@ -201,6 +202,13 @@ https://www.youtube.com/playlist?list=PLRG6WP3c31_U7TFGduEIJWVtkOw6AJjFf
 
 https://www.youtube.com/playlist?list=PLE-BQwvVGf8HOvwXPgtDfWoxd4Cc6ghiP
 
+ROS (Robotic OS) 
+👉 ROS tutorials are a great help if you want to learn about the OS behind self-driving cars for free. You will work with command lines, and learn to build concrete projects.
+
+Artificial Intelligence
+👉 I highly recommend Artificial Intelligence for Robotics by Udacity for a practical free introduction to self-driving cars.
+
+
 G) Advanced C++ for computer vision,linux Cmake(build), git(Version control), gtest, gitlab(Project Management):
 University of Bonn:
 
@@ -209,6 +217,26 @@ https://www.youtube.com/playlist?list=PLgnQpQtFTOGRM59sr3nSL8BmeMZR9GCIA
 
 2.
 https://www.youtube.com/playlist?list=PLgnQpQtFTOGR50iIOtO36nK6aNPtVq98C
+
+C++ - The Main Language
+👉 C++ Nanodegree, Udacity
+Read my C++ interview with Udacity to launch this course here.
+
+👉 Beginning C++ Programming - From beginner to beyond, Udemy Course
+
+Python - Useful to have
+You shouldn't spend too much time on it, especially if you already have programming skills.
+👉 Complete Python Bootcamp: Go from Zero to hero in Python 3
+👉 Python Programming Masterclass
+
+Basic Linux Command Lines
+👉 I'd say it's not necessary to take a course on this, learn while doing your projects and force yourself to use a Linux system.
+
+These were languages, the other very important thing is maths.
+Intermediate Probability
+Intermediate Calculus
+Intermediate Linear Algebra
+👉 You can learn these on Khan Academy
 
 
 
