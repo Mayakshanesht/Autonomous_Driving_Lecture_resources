@@ -1,5 +1,5 @@
 Command	Meaning
-cp file1 file2    ----	copy file1 and call it file2
+cp -r file1 file2    ----	copy file1 and call it file2
 mv file1 file2    ----	move or rename file1 to file2
 rm file           ----	remove a file
 rmdir directory   ----	remove a directory
