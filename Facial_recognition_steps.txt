@@ -1,0 +1,29 @@
+Writeup for facial recognition project:
+This project has been completed in colab environment.
+Steps:
+1. Import relevant libraries
+numpy
+tensorflow
+matplotlib.pyplot
+keras
+scikit learn
+
+2. load the data from npz file and find data heads
+
+3. Split data into train and test classes
+
+4. Normalize input training and test image data
+
+5. One hot coding of output labels has beena ccomplished using scikit learn
+
+6.The custom model has been built with 4 CNN layers and ANN 4 layers part with 20 classes
+
+7. compiled the model with Categorical cross entorpy as a loss functiona nd adam as an optimizer
+
+8. Train the model with GPU runtime with 20 btach size for training data and 32 default batch size for test data
+
+9.plot the results
+
+10. predict the output
+
+11. verify the output
