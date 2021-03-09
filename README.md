@@ -65,6 +65,9 @@ https://matlabacademy.mathworks.com/R2020b/portal.html?course=reinforcementlearn
 7. Model predictive RL-
 https://www.youtube.com/watch?v=X2s7gy3wIYw&feature=youtu.be
 
+8. You should start from here for RL and also download openAI gym
+https://spinningup.openai.com/en/latest/
+
 C) Perception: 
 Lectures for Perception of Autonomous vehicle held at TUM:
 1. Introduction to deep learning-
