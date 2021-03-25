@@ -82,6 +82,26 @@ https://www.youtube.com/playlist?list=PLog3nOPCjKBneGyffEktlXXMfv1OtKmCs
 4. Image segmentation:
 https://github.com/Attila94/refinenet-keras
 
+Important repositories for state of the art papers are as follows
+For Lane Detection:
+https://github.com/Mayakshanesht/awesome-lane-detection
+
+For object tracking:
+https://github.com/Mayakshanesht/awesome-multiple-object-tracking
+
+
+Semantic segmentation
+https://github.com/Mayakshanesht/awesome-semantic-segmentation
+
+3D reconstruction
+https://github.com/Mayakshanesht/awesome_3DReconstruction_list
+
+object detection
+https://github.com/Mayakshanesht/awesome-object-detection
+
+AI
+https://github.com/Mayakshanesht/awesome-ai-awesomeness
+
 D) Sensor Fusion & Localization:
 1.Lectures on Photogrammetry & SLAM by cyrill stachniss held at University of Bonn-
 Photogrammetry 1- https://www.youtube.com/playlist?list=PLgnQpQtFTOGTPQhKBOGgjTgX-mzpsOGOX
@@ -169,6 +189,9 @@ University of Bonn:
 https://www.youtube.com/playlist?list=PLgnQpQtFTOGRM59sr3nSL8BmeMZR9GCIA
 2.
 https://www.youtube.com/playlist?list=PLgnQpQtFTOGR50iIOtO36nK6aNPtVq98C
+
+H) Autonomous Navigation
+https://github.com/Mayakshanesht/PythonRobotics
 
 
 
